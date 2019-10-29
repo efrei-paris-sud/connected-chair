@@ -1,0 +1,30 @@
+Description of the Arduino codes seen during Lab 1
+
+No major difficulties were encountered regarding the Arduino codes. Some difficulties were however encountered while plugging differents elements on to the Arduino Card.
+
+Lesson 1 : LED Blink
+The LED plugged in the Arduino card is recognised thanks to the first line in the code.
+The digitalWrite() command in the infinite loop enables to LED to blink without interruption with a delay, also indicated in the code.
+
+
+Lesson 6 : Button 
+The LED as well as the button plugged on the card are recognised thanks to the first two lines in the code.
+The button is initialised so that when it is pressed for the first time, the LED turns on and when pressed again, the LED turns off.
+The loop() enables the LED to turn on or off when the is pressed, according to its state (if() statement)
+
+
+Lesson 10 : RGB LED 
+The three pins LED plugged on the card  is recognised thanks to the first three lines.
+The loop() enables to display, first, the red color then after a delay time, the green color is displayed then after another delay, the blue color appears etc.
+
+Lesson 4 : LED Blink 
+We connect the led to the pin 13 , then in the loop we define the amount of time we want the led to be on and of with the command  delay() 
+So the led keep turning on/off every 1000 milliseconds
+
+Lesson 5 : Fading 
+We connect the led to the pin 5 . First  we initialize the initial value of the brightness . In the loop we set brightness and write command so brightness decrease with time and increase again  when it reach the lower point. 
+This is why the brightness of the loop keep increasing and decreasing every 30 milliseconds  
+
+Lesson 9 : Passive Buzzer
+We connect the buzzer to teh pin 5 and to the gnd pin , then in the code in the loop , we define the duration and intensity of the sound of the sound the buzzer have to make with the command tone (). 
+The buzzer do this sound forever  
