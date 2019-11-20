@@ -5,3 +5,6 @@ I2C enables to connect several devices together, contrary to serial, however the
 
 ## Report
 - Report Lab 3
+
+## Exercises
+- Exercise 1
