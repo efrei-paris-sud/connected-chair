@@ -23,4 +23,5 @@ Photos of our assembly :
 
 
 
-We then used the "Brightness" code from Arduino Examples
+We then used the "Brightness" [code](code.ino) from Arduino Examples.
+Once the Arduino board was connected to the computer and the above code was uploaded, our white LED turned on.
