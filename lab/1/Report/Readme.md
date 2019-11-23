@@ -12,7 +12,7 @@ Components used :
 - Jumper wires
 - USB cable 
 
-We connected all these components as indicated in the following sketch and used this [code](LEDBlink.ino)
+We connected all these components as indicated in the following sketch and used this [code](LEDBlink.ino).
 
 ![](LEDBlink.png?raw=true)
 
@@ -29,7 +29,7 @@ Components used :
 - Jumper wires
 - USB cable
 
-We connected all these components as indicated in the following sketch and used this [code](Fade.ino)
+We connected all these components as indicated in the following sketch and used this [code](Fade.ino).
 
 ![](Fade.png?raw=true)
 
@@ -49,6 +49,28 @@ Components used :
 We connected all these components as indicated in the following sketch and used this [code](RGB_LED.ino).
 
 ![](RGB_LED.png?raw=true)
+
+
+
+## Lesson 10 : Analog Input
+
+In this lesson we will make an assembly to control the LED light brightness with a potentiometer. 
+
+Components used :
+- 10 kilo ohm potentiometer
+- LED
+- 220 ohm resistor
+- Arduino Uno board
+- Breadboard
+- Jumper wires
+- USB cable
+
+We connected the potentiometer as indicated in the following sketch ( for the LED connections, same as lesson 1)  and used this [code](Analog_Input.ino)
+
+![](Analog_Input.png?raw=true)
+
+
+Result : As we turn the button of the potentiometer, the brightness of the LED light, increases or decreases.
 
  
 
