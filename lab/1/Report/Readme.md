@@ -17,6 +17,13 @@ We connected all these components as indicated on the following sketch and used 
 ![](LEDBlink.png?raw=true)
 
 
+
+
+Regarding the code used, the LED plugged in the Arduino card is recognised thanks to the first line in the code.
+The digitalWrite() command in the infinite loop enables to LED to blink without interruption with a delay, also indicated in the code.
+
+
+
 ## Lesson 5 : Fade 
 
 In this lesson we will make an assembly in order to gradually fade the light emitted by the LED.
@@ -32,6 +39,14 @@ Components used :
 We connected all these components as indicated on the following sketch and used this [code](Fade.ino).
 
 ![](Fade.png?raw=true)
+
+
+
+
+Descrisption of the code used; 
+We connect the led to the pin 5. First, we initialize the value of the brightness. In the loop we set brightness and write command so brightness decrease with time and increase again  when it reach the lower point. 
+This is why the brightness of the loop keep increasing and decreasing every 30 milliseconds.
+
 
 
 
@@ -52,7 +67,12 @@ We connected all these components as indicated on the following sketch and used 
 
 
 
-## Lesson 10 : Analog Input
+Description of the code used :
+The three pins LED plugged on the card is recognised thanks to the first three lines.
+The loop() enables to display, first, the red color then after a delay time, the green color is displayed then after another delay, the blue color appears etc.
+
+
+## Lesson 4 : Analog Input
 
 In this lesson we will make an assembly to control the LED light brightness with a potentiometer. 
 
@@ -119,6 +139,10 @@ We connected the button as indicated on the following sketch, (for the LED conne
   ```
   
   
+Description of the code used :
+The LED as well as the button plugged on the card are recognised thanks to the first two lines in the code.
+The button is initialised so that when it is pressed for the first time, the LED turns on and when pressed again, the LED turns off.
+The loop() enables the LED to turn on or off when the is pressed, according to its state (if() statement).
   
   
 ## Lesson 9 : Buzzer
@@ -135,5 +159,11 @@ Components used :
 We connected all these components as indicated on the following sketch and used this [code](Buzzer.ino).
 
 ![](Buzzer.png?raw=true)
+
+
+
+
+Description of the code :
+We connect the buzzer to pin 5 and to GND pin , then in the code, in the loop section , we define the duration and intensity of the sound emitted by the buzzer thanks to the command "tone()". The buzzer then emits a sound continuously. 
 
 
