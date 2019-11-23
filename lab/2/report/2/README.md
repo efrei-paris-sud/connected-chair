@@ -11,5 +11,5 @@ Components used :
 - Jumper wires 
 - USB cable 
 
-Once connecting all these components together and uploading the [code](code.ino) we realised that when we input a value (in the Arduino code), the frequence of the sound emmitted by the buzzer changes.
-(We did not succeed in putting photos in this readme.md document, they are however available in the folder).
+Once connecting all these components together and uploading the [code](Buzzer_Code.ino), we observed that when we input a value (on the Arduino console), the frequence of the sound emitted by the buzzer changes.
+
