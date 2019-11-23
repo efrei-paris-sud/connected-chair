@@ -16,7 +16,7 @@ We connected all these components as indicated in the following sketch :
 
 
 Photos of our assembly : 
-![](With_microcontroller.png?raw=true)
+![](With_Microcontroller.png?raw=true)
 
 
 ![](With_Microcontroller2.png?raw=true)
