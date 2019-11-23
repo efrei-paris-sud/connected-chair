@@ -11,4 +11,6 @@ For this experiment we used this list of components :
 We connected all these components as indicated on the following sketch : 
 ![](Lesson15_Sketch.png?raw=true)
 
-Once we connected
+Once we connected the Arduino Uno board to the PC and the [code](code.ino) was uploaded, a counter started on the 4 digit LED segment display. Here is a photo of the result :
+
+![](Lesson15_result.png?raw=true)
