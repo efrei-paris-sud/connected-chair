@@ -20,3 +20,5 @@ Photos of our assembly :
 
 
 ![](With_Microcontroller2.png?raw=true)
+
+We then used the "Brightness" code from Arduino Examples
