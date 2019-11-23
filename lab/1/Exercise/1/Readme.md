@@ -27,5 +27,33 @@ Photos of our assembly :
 We then used the "Brightness" [code](code.ino) from Arduino Examples.
 Once the Arduino board was connected to the computer and the above code was uploaded, our white LED turned on.
 
+
+
+
 ## Controlling LED brightness without a microcontroller
-For this second part, we also reproduced an asssembly seen in class during lab 1. Thus, to control the LED brightness we this time, used a potentiometer
+For this second part, we also reproduced an asssembly seen in class during lab 1. Thus, to control the LED brightness we this time used a potentiometer.
+
+Components used :
+- Arduino Uno board
+- Potentiometer
+- White LED light
+- 220 ohm resistance
+- Jumper wires
+
+We connected all these components as indicated in the two following sketches : 
+
+![](Potentiometer.Sketch.png?raw=true)
+
+
+![](Sketch.png?raw=true)
+
+
+Photos of our assembly : 
+![](Without_Microcontroller.png?raw=true)
+
+
+![](Without_Microcontroller2.png?raw=true)
+
+
+![](Without_Microcontroller3.png?raw=true)
+
