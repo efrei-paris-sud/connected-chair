@@ -57,3 +57,7 @@ Photos of our assembly :
 
 ![](Without_Microcontroller3.png?raw=true)
 
+
+We then used the [Analog input code](code2.ino).
+Once the Arduino Uno board was connected to the PC and the code above was upload, the brightness of the white LED increased or decreased as we turned the button of the potentiometer. Therefore, as expected the light's brightness is this monitored by the potentiometer.
+
