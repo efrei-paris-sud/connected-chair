@@ -11,6 +11,7 @@ For this random assembly we used the following components :
 - Breadboard
 - Jumper wires 
 
-We connected all these components as indicated in the following sketch :
+We connected all these components as indicated in the following images :
 
-![](sketch.png?raw=true)
+![](Sketch.png?raw=true)
+![](Schematic.png?raw=true)
