@@ -25,4 +25,6 @@ For this experiment we used this list of components :
 - Jumper wires
 - Breadboard
 
-We connected all these components as indicated on the following sketch :
+We used the same [code2](code2.ino) as previously, but adapted it to our new goal : displaying the date.
+We want to display the date 11th November so 1111. However instead of having 1 on the screen, we got a line of "A".
+We did not succeed in finding the error and correcting the probleme.
