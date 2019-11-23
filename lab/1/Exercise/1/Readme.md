@@ -9,3 +9,14 @@ Components used :
 - Jumper wires
 
 We connected all these components as indicated in the following sketch :
+
+![](Sketch.png?raw=true)
+
+
+
+
+Photos of our assembly : 
+![](With_microcontroller.jpg?raw=true)
+
+
+![](With_Microcontroller2.png?raw=true)
