@@ -14,4 +14,6 @@ For this random assembly we used the following components :
 We connected all these components as indicated in the following images :
 
 ![](Sketch.png?raw=true)
+
+
 ![](Schematic.png?raw=true)
