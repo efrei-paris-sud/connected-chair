@@ -11,7 +11,7 @@ Components used :
 - Jumper wires
 - USB cable 
 
-We connected all these components as indicated in the following sketch and used this [code](LED_Blink.ino)
+We connected all these components as indicated in the following sketch and used this [code](LEDBlink.ino)
 
 ![](LEDBlink.png?raw=true)
 
