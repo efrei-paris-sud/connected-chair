@@ -4,7 +4,7 @@ In this lab, we will get to know basic components and assemblies with Arduino as
 ino language.
 
 ## Report
-- Report 1
+- [Report 1](Report/1)
 
 ## Exercises Reports
 - [Exercise 1](Exercise/1)
