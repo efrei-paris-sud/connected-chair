@@ -4,4 +4,4 @@
 We assembled all the components as indicated in the following Fritzing sketches : ![We assembled all components as indicated in this fritzing sketches :](BME280.png?raw=true) 
 ![](BME280_Sketch.png?raw=true)
 
-We then compiled the code bmetest in Arduino, after installing the BME280 library
+We then compiled the [code](code1.ino) bmetest in Arduino, after installing the BME280 library
