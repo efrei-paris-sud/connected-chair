@@ -46,7 +46,7 @@ Components used :
 - Jumper wires
 - USB cable
 
-We connected all these components as indicated in the following sketch and used this [code](RGB_LED.ino)
+We connected all these components as indicated in the following sketch and used this [code](RGB_LED.ino).
 
 ![](RGB_LED.png?raw=true)
 
