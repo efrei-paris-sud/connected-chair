@@ -26,5 +26,4 @@ We connect the led to the pin 5 . First  we initialize the initial value of the 
 This is why the brightness of the loop keep increasing and decreasing every 30 milliseconds  
 
 Lesson 9 : Passive Buzzer
-We connect the buzzer to teh pin 5 and to the gnd pin , then in the code in the loop , we define the duration and intensity of the sound of the sound the buzzer have to make with the command tone (). 
-The buzzer do this sound forever  
+We connect the buzzer to pin 5 and to GND pin , then in the code, in the loop section , we define the duration and intensity of the sound emitted by the buzzer thanks to the command "tone()". The buzzer then emits a sound continuously. 
