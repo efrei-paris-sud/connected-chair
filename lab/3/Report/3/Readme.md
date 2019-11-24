@@ -1,6 +1,10 @@
 
 ![montage-mpu-6050](https://user-images.githubusercontent.com/48890122/69488622-25b38400-0e6c-11ea-9e0d-bc091c370f76.png)
 
+Here is the schematic representation 
+![montagempu-6050schéma](https://user-images.githubusercontent.com/48890122/69488614-15030e00-0e6c-11ea-9697-5e55eb2f3e90.png)
+
+
 We will make use only of the first four pins: VCC, GND, SDA, and SCL. First, we connect the module’s VCC to the Arduino’s 5V pin. Then, the module’s GND is connected to one of the Arduino’s GND pins. 
 Next, we have to set up the I2C connection between the module and the Arduino we connect SCL to the pin A5 and SDA to A4 pin . 
 
